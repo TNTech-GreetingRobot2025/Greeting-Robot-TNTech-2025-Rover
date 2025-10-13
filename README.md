@@ -1,5 +1,6 @@
 # Greeting-Robot-TNTech-2025-Rover
-Tracklist of the Fall 2025 Senior Design group working on Rover
+
+# Getting Started on Rover:
 
 ## Starting Rover from the Intel NUC in the base
 Make sure the computer is on by pressing the square button located on the
